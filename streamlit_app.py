@@ -5,4 +5,6 @@ st.write(
     "Ngoding bersama bapak Hendri"
 )
 
-st.image(" IMG-20250528-WA0030.jpg , width = 200)
+st.image("IMG-20250528-WA0030.jpg , width = 200)
+
+         Aplikasi sederhana
